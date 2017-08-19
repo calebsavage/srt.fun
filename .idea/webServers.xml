@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="acbbdbd4-149c-45d5-8654-5f42b584f169" name="vps" url="http://mybcd.online/shorty">
+        <fileTransfer host="mybcd.online" port="21" rootFolder="/var/www/html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
