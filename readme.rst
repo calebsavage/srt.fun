@@ -5,7 +5,7 @@ Simple URL Shortener
 Built with Codeigniter as a fun demo project.
 
 `Live Demo
-<http://srt.fun>`_
+<http://www.srt.fun>`_
 
 ***************
 Build instructions
